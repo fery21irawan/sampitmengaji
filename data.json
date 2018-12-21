@@ -2,13 +2,13 @@
 	"kajian_rutin" : 
 		[
 			{
-				"kitab":"Kitabut Tauhid",
-				"pemateri":"Ustadz Malik",
-				"hari":"Senin",
+				"kitab":"Al Mulakhkhas Syarah Kitabut Tauhid",
+				"pemateri":"Ustadz Hamzah As Sindy Hafizhahullah",
+				"hari":"Sabtu",
 				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
-					"nama_lokasi" : "Masjid Imam Syafii",
-					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
+					"nama_lokasi" : "Langgar Nurusy Syuhada",
+					"alamat"	  : "Jalan S. Parman (Samping RM. Firmanudin",
 					"lattitude"	  : "null",
 					"longitude"	  : "null"
 				}
