@@ -1,0 +1,71 @@
+{
+	"kajian_rutin" : 
+		[
+			{
+				"kitab":"Kitabut Tauhid",
+				"pemateri":"Ustadz Malik",
+				"hari":"Senin",
+				"lokasi" : {
+					"nama_lokasi" : "Masjid Imam Syafii",
+					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
+					"lattitude"	  : "null",
+					"longitude"	  : "null"
+				}
+			},
+			{
+				"kitab":"2018-12-25",
+				"pemateri":"2018-12-25",
+				"tanggal":"2018-12-25",
+				"lokasi" : {
+					"nama_lokasi" : "Masjid Imam Syafii",
+					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
+					"lattitude"	  : "null",
+					"longitude"	  : "null"
+				}
+			},
+			{
+				"kitab":"2018-12-25",
+				"pemateri":"2018-12-25",
+				"tanggal":"2018-12-25",
+				"lokasi" : {
+					"nama_lokasi" : "Masjid Imam Syafii",
+					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
+					"lattitude"	  : "null",
+					"longitude"	  : "null"
+				}
+			},
+			{
+				"kitab":"2018-12-25",
+				"pemateri":"2018-12-25",
+				"tanggal":"2018-12-25",
+				"lokasi" : {
+					"nama_lokasi" : "Masjid Imam Syafii",
+					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
+					"lattitude"	  : "null",
+					"longitude"	  : "null"
+				}
+			},
+			{
+				"kitab":"2018-12-25",
+				"pemateri":"2018-12-25",
+				"tanggal":"2018-12-25",
+				"lokasi" : {
+					"nama_lokasi" : "Masjid Imam Syafii",
+					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
+					"lattitude"	  : "null",
+					"longitude"	  : "null"
+				}
+			},
+			{
+				"kitab":"2018-12-25",
+				"pemateri":"2018-12-25",
+				"tanggal":"2018-12-25",
+				"lokasi" : {
+					"nama_lokasi" : "Langgar",
+					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
+					"lattitude"	  : "null",
+					"longitude"	  : "null"
+				}
+			}
+		]
+}
