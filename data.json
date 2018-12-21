@@ -4,7 +4,10 @@
 			{
 				"kitab":"Al Mulakhkhas Syarah Kitabut Tauhid",
 				"pemateri":"Ustadz Hamzah As Sindy Hafizhahullah",
-				"hari":"Sabtu",
+				"hari":{
+					"namahari":"Sabtu",
+					"kodehari":7
+				},
 				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi" : "Langgar Nurusy Syuhada",
@@ -16,7 +19,10 @@
 			{
 				"kitab":"Ad-Daa' Wa-Dawaa",
 				"pemateri":"Ustadz Malik Ashari Hafizhahullah",
-				"hari":"Ahad",
+				"hari":{
+					"namahari":"Ahad",
+					"kodehari":1
+				},
 				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi"   : "Langgar Nurusy Syuhada",
@@ -28,7 +34,10 @@
 			{
 				"kitab":"Nuzhatul Muttaqin/Syarah Riyadhus Sholihin",
 				"pemateri":"Ustadz Hamzah As Sindy Hafizhahullah",
-				"hari":"Senin",
+				"hari":{
+					"namahari":"Senin",
+					"kodehari":2
+				},
 				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi"   : "Langgar Nurusy Syuhada",
@@ -40,7 +49,10 @@
 			{
 				"kitab":"Al-Qowa'idul Arba'",
 				"pemateri":"Ustadz Malik Ashari Hafizhahullah",
-				"hari":"Selasa",
+				"hari":{
+					"namahari":"Selasa",
+					"kodehari":3
+				},
 				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi" : "Masjid Imam Syafii",
@@ -52,7 +64,10 @@
 			{
 				"kitab":"Adab-Adab Safar",
 				"pemateri":"Ustadz Malik Ashari Hafizhahullah",
-				"hari":"Senin",
+				"hari":{
+					"namahari":"Rabu",
+					"kodehari":4
+				},
 				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi" : "Masjid Imam Syafii",
@@ -64,7 +79,10 @@
 			{
 				"kitab":"Syarhus Sunnah Lil Muzani",
 				"pemateri":"Ustadz Hamzah As Sindy Hafizhahullah",
-				"hari":"Senin",
+				"hari":{
+					"namahari":"Jum'at",
+					"kodehari":6
+				},
 				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi" : "Masjid Imam Syafii",
