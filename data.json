@@ -5,6 +5,7 @@
 				"kitab":"Kitabut Tauhid",
 				"pemateri":"Ustadz Malik",
 				"hari":"Senin",
+				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi" : "Masjid Imam Syafii",
 					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
@@ -13,9 +14,10 @@
 				}
 			},
 			{
-				"kitab":"2018-12-25",
-				"pemateri":"2018-12-25",
-				"tanggal":"2018-12-25",
+				"kitab":"Kitabut Tauhid",
+				"pemateri":"Ustadz Malik",
+				"hari":"Senin",
+				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi" : "Masjid Imam Syafii",
 					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
@@ -24,9 +26,10 @@
 				}
 			},
 			{
-				"kitab":"2018-12-25",
-				"pemateri":"2018-12-25",
-				"tanggal":"2018-12-25",
+				"kitab":"Kitabut Tauhid",
+				"pemateri":"Ustadz Malik",
+				"hari":"Senin",
+				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi" : "Masjid Imam Syafii",
 					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
@@ -35,9 +38,10 @@
 				}
 			},
 			{
-				"kitab":"2018-12-25",
-				"pemateri":"2018-12-25",
-				"tanggal":"2018-12-25",
+				"kitab":"Kitabut Tauhid",
+				"pemateri":"Ustadz Malik",
+				"hari":"Senin",
+				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi" : "Masjid Imam Syafii",
 					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
@@ -46,9 +50,10 @@
 				}
 			},
 			{
-				"kitab":"2018-12-25",
-				"pemateri":"2018-12-25",
-				"tanggal":"2018-12-25",
+				"kitab":"Kitabut Tauhid",
+				"pemateri":"Ustadz Malik",
+				"hari":"Senin",
+				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
 					"nama_lokasi" : "Masjid Imam Syafii",
 					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
@@ -57,11 +62,12 @@
 				}
 			},
 			{
-				"kitab":"2018-12-25",
-				"pemateri":"2018-12-25",
-				"tanggal":"2018-12-25",
+				"kitab":"Kitabut Tauhid",
+				"pemateri":"Ustadz Malik",
+				"hari":"Senin",
+				"waktu":"Ba'da Maghrib",
 				"lokasi" : {
-					"nama_lokasi" : "Langgar",
+					"nama_lokasi" : "Masjid Imam Syafii",
 					"alamat"	  : "Jalan Kenan Sandan Gang Simpatik DK",
 					"lattitude"	  : "null",
 					"longitude"	  : "null"
